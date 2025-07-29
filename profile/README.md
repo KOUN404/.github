@@ -36,7 +36,7 @@ KOUN404 is a squad of dreamers, coders, creators, and misfits fighting for your 
 - Jump in:
   - [Discord](YOUR_DISCORD_LINK)
   - [Reddit](YOUR_REDDIT_LINK)
-  - [Issues Board](https://github.com/orgs/YOUR_ORG_NAME/issues)
+  - [Issues Board](https://github.com/orgs/KOUN404/issues)
 
 ---
 
