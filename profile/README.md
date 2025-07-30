@@ -35,8 +35,7 @@ KOUN404 is a squad of dreamers, coders, creators, and misfits fighting for your 
 - Follow our [Contribution Guide](CONTRIBUTING.md) and [Community Rules](CODE_OF_CONDUCT.md)
 - Jump in:
   - [Discord](YOUR_DISCORD_LINK)
-  - [Reddit](YOUR_REDDIT_LINK)
-  - [Issues Board](https://github.com/orgs/KOUN404/issues)
+  - [Reddit](https://www.reddit.com/r/KOUN404/)
 
 ---
 
